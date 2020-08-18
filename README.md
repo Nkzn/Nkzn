@@ -1,4 +1,11 @@
-### Hi there 👋
+[![nkzn's github stats](https://github-readme-stats.vercel.app/api?username=nkzn&show_icons=true)](https://github.com/nkzn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkzn)](https://github.com/nkzn)
+
+[![GitHub](https://img.shields.io/github/followers/nkzn?style=social)](https://github.com/nkzn)
+[![Twitter](https://img.shields.io/twitter/follow/nkzn?style=social)](https://twitter.com/nkzn)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/nkzn/posts.svg)](http://qiita.com/nkzn)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/nkzn/contributions.svg)](http://qiita.com/nkzn)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/nkzn/followers.svg)](http://qiita.com/nkzn)
 
 <!--
 **Nkzn/Nkzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
